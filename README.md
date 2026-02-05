@@ -62,5 +62,5 @@ python meow_automated.py -f 10.129.45.123
 5. In flag mode: runs `cat flag.txt` and shows the flag
 
 ### Links
-- Find the writeup (French) on [Here](#https://medium.com/@ravenbreach/comment-craquer-la-machine-la-plus-difficile-de-htb-5c4de7255bcf](https://mohamedoutougane.github.io/ravenbreach-blog/writeups/hackthebox/startingpoint/meow/))
-- Find the walkthough (French) on [Youtube](#https://youtu.be/RGixHuuqmsI?si=PPI830kFhjHKkQQW)
+- Find the writeup (French) on https://medium.com/@ravenbreach/comment-craquer-la-machine-la-plus-difficile-de-htb-5c4de7255bcf](https://mohamedoutougane.github.io/ravenbreach-blog/writeups/hackthebox/startingpoint/meow/
+- Find the walkthough (French) on https://youtu.be/RGixHuuqmsI?si=PPI830kFhjHKkQQW
